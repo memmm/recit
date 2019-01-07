@@ -1,6 +1,6 @@
 {
   "name": "rec-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Module for generating browser fingerprint",
   "main": "lib/webpack-library-starter.js",
   "scripts": {
